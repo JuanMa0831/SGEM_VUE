@@ -1,8 +1,7 @@
 import { createRouter, createWebHashHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
-import Vue from 'vue';
-import Router from 'vue-router';
 import Conciertos from '../components/Conciertos.vue';
+
 
 const routes = [
   {
